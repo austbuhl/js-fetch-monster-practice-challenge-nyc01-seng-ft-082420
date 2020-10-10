@@ -6005,6 +6005,12 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Mike Wazowski",
+      "age": "111",
+      "description": "Michael \"Mike\" Wazowski is one of the two main characters in Monsters, Inc. and its prequel Monsters University, also known as Mike. He is a lime green spherical monster with one large green eye, two small horns on his head, and thin arms and legs attached to either side of his torso.",
+      "id": 1002
     }
   ]
 }
